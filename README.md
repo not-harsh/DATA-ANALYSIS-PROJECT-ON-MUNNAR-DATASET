@@ -6,7 +6,7 @@ This repository contains Python code for analyzing hotel data using the Pandas a
 
 ## Contents
 
-- `hotel_data_analysis.ipynb`: Jupyter Notebook containing the code for data analysis.
+- `munnar_dataset_analysis.ipynb`: Jupyter Notebook containing the code for data analysis.
 - `munnar.csv`: Sample dataset used for the analysis.
 
 ## Data Cleaning and Preprocessing
